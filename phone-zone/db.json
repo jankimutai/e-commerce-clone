@@ -1,19 +1,117 @@
 {
-  "posts": [
+  "user-data":[
+
+  ],
+  "phone_models": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "iPhone 14 Pro Max",
+      "brand": "Apple",
+      "release_date": "2022-09-21",
+      "price": 999,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+      "screen_size": "6.7 inches",
+      "camera": "12MP triple-lens rear camera system, 12MP front-facing camera"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Samsung Galaxy S22 Ultra",
+      "brand": "Samsung",
+      "release_date": "2022-02-25",
+      "price": 1199,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+      "screen_size": "6.8 inches",
+      "camera": "108MP quad-lens rear camera system, 40MP front-facing camera"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "brand": "Google",
+      "release_date": "2021-10-28",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+      "screen_size": "6.7 inches",
+      "camera": "50MP triple-lens rear camera system, 11.2MP front-facing camera"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 10 Pro",
+      "brand": "OnePlus",
+      "release_date": "2022-03-31",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+      "screen_size": "6.7 inches",
+      "camera": "48MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "release_date": "2022-01-11",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Redmi K60 Ultra",
+      "brand": "Xiaomi",
+      "release_date":"2023, August 15",
+      "price": 330,
+      "img":"https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+      "screen_size":"6.67",
+      "camera":"50 MP, f/1.7, (wide), front-facing-camera 20 MP, (wide), 1/2.0 0.8µm"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "release_date": "2022-01-11",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 8,
+      "name": "Redmi A2",
+      "brand": "Xiaomi",
+      "release_date": "2022-01-11",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Note 12 5G",
+      "brand": "Xiaomi",
+      "release_date": "2022-01-11",
+      "price": 533,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Note 10 Pro",
+      "brand": "Xiaomi",
+      "release_date": "2022-01-11",
+      "price": 433,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+    },
+    {
+      "id": 11,
+      "name": "Realme-11-pro",
+      "brand": "RealMe",
+      "release_date": "2022-01-11",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/realme-11-pro.jpg",
+      "screen_size": "6.73 inches",
+      "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
